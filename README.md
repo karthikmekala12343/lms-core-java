@@ -34,7 +34,7 @@ This is a Java-based Library Management System that demonstrates Object-Oriented
 
 1. Ensure Java 8+ and Maven are installed.
 4. Run `mvn compile` to compile.
-5. Run `mvn exec:java -Dexec.mainClass="com.library.LibraryManagementSystem"` to run the demo.
+5. Run `mvn exec:java -Dexec.mainClass="com.airtribe.library.LibraryManagementSystem"` to run the demo.
 
 ## Dependencies
 - SLF4J for logging API
